@@ -8,7 +8,6 @@
 <h2> Contact with me on </h2>
 
 * personal email : kamolovfoteh@gmail.com
-* personal email : kamolovfoteh@yandex.ru
 
 
 
