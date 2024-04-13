@@ -1,4 +1,4 @@
-<h2> Asalamu Aleykum, I'm Foteh Kamolov 👋</h2>
+<h2> HI, I'm Foteh Kamolov 👋</h2>
 
 * Graduate of technical universities in Moscow.
 * 2+ years of experience in Android/Flutter.
