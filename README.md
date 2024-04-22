@@ -11,7 +11,7 @@
 
 
 
-<p><a href="https://www.linkedin.com/in/kamolovme/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://t.me/kamolovme" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/telegram-8d99ae.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a> <a href="https://www.instagram.com/kamolovme" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a><p>
+<p><a href="https://www.linkedin.com/in/kamolovme/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://t.me/fotehikamol" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/telegram-8d99ae.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a> <a href="https://www.instagram.com/fotehikamol" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a><p>
 
 <hr>
 
